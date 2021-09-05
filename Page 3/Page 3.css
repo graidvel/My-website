@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    background-color: #ceb981;
+}
+.header {
+    height: 120px;
+    background-color: #c4a54f;
+    display: flex;
+    flex-direction: row;
+    flex: initial;
+    vertical-align: middle;
+    width: auto;
+}
+
+.name {
+    margin: auto 0;
+    width: 50%;
+    padding: 10px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.header-content img {
+    height: 130px;
+}
+
+.body {
+    text-align: center;
+    margin-top: 150px;
+}
